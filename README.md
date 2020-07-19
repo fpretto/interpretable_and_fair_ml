@@ -2,11 +2,11 @@
 
 This repo aims to present different techniques for approaching model interpretation and fairness in Machine Learning black-box models.
 
-Most of the model interpretation techniques were taken from this highly recommendable book from Christoph Molnar:
-Interpretable Machine Learning - A Guide for Making Black Box Models Explainable. (https://christophm.github.io/interpretable-ml-book/)
+Most of the *model interpretation* techniques were taken from this highly recommendable book from Christoph Molnar:
+**Interpretable Machine Learning -** ***A Guide for Making Black Box Models Explainable***. (https://christophm.github.io/interpretable-ml-book/)
 
-For model fairness assessment, a practical guide can be found in this blog post:
-FairML: Auditing Black-Box Predictive Models (https://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
+For model *fairness assessment*, a practical guide can be found in this blog post:
+**FairML: Auditing Black-Box Predictive Models** (https://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
 
 **Techniques used:**
 - **Model Interpretation**
