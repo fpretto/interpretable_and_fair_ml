@@ -19,8 +19,8 @@ For model *fairness assessment*, a practical guide can be found in this blog pos
   - Local Importance
     1. Local Interpretable Model-agnostic Explanations (LIME)
     2. SHapley Additive exPlanations (SHAP)
-      - Force Plot
-      - Decision Plot
+        - Force Plot
+        - Decision Plot
 
 - **Model Fairness**
   - FairML
