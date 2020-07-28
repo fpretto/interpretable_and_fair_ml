@@ -2,7 +2,7 @@
 
 This repo aims to present different techniques for approaching model interpretation and fairness in Machine Learning black-box models.
 
-An explanation of model interpretability techniques can be found in this post: https://medium.com/@fabricio.pretto.c/uncovering-the-magic-interpreting-machine-learning-black-box-models-3154fb8ed01a)
+An explanation of model interpretability techniques can be found in [this post](https://medium.com/@fabricio.pretto.c/uncovering-the-magic-interpreting-machine-learning-black-box-models-3154fb8ed01a)
 
 **Techniques covered:**
 - **Model Interpretation**
